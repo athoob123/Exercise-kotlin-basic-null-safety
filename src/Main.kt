@@ -20,3 +20,5 @@ fun main() {
 fun addPoints(score: Double?): Double {
     return (score ?: 0.0) + 5.0
 }
+
+// new note
